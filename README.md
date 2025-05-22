@@ -9,5 +9,6 @@ Auto-generated GitHub with GPT-based code review.
 
 ## How to Run
 ```
-python main.py
+python 4-bit_adder_sort.py
+python Truth_table_verification.py
 ```
